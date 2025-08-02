@@ -1,0 +1,13 @@
+# Ignore data and log directories
+/data/
+/logs/
+
+# Ignore specific file types
+*.log
+*.tmp
+*.docx
+*.png
+
+# System files
+.DS_Store
+Thumbs.db
